@@ -1,0 +1,1032 @@
+﻿[
+  {
+    "body_temperature": 5.1,
+    "heart_rate": 3.5,
+    "respiratory_rate": 1.4,
+    "high_blood_pressure": 0.2,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 4.9,
+    "heart_rate": 3,
+    "respiratory_rate": 1.4,
+    "high_blood_pressure": 0.2,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 4.7,
+    "heart_rate": 3.2,
+    "respiratory_rate": 1.3,
+    "high_blood_pressure": 0.2,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 4.6,
+    "heart_rate": 3.1,
+    "respiratory_rate": 1.5,
+    "high_blood_pressure": 0.2,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 5,
+    "heart_rate": 3.6,
+    "respiratory_rate": 1.4,
+    "high_blood_pressure": 0.2,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 4.6,
+    "heart_rate": 3.4,
+    "respiratory_rate": 1.4,
+    "high_blood_pressure": 0.3,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 5,
+    "heart_rate": 3.4,
+    "respiratory_rate": 1.5,
+    "high_blood_pressure": 0.2,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 4.4,
+    "heart_rate": 2.9,
+    "respiratory_rate": 1.4,
+    "high_blood_pressure": 0.2,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 4.9,
+    "heart_rate": 3.1,
+    "respiratory_rate": 1.5,
+    "high_blood_pressure": 0.1,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 5.4,
+    "heart_rate": 3.7,
+    "respiratory_rate": 1.5,
+    "high_blood_pressure": 0.2,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 4.8,
+    "heart_rate": 3.4,
+    "respiratory_rate": 1.6,
+    "high_blood_pressure": 0.2,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 4.8,
+    "heart_rate": 3,
+    "respiratory_rate": 1.4,
+    "high_blood_pressure": 0.1,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 4.3,
+    "heart_rate": 3,
+    "respiratory_rate": 1.1,
+    "high_blood_pressure": 0.1,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 5.8,
+    "heart_rate": 4,
+    "respiratory_rate": 1.2,
+    "high_blood_pressure": 0.2,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 5.7,
+    "heart_rate": 4.4,
+    "respiratory_rate": 1.5,
+    "high_blood_pressure": 0.4,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 5.4,
+    "heart_rate": 3.9,
+    "respiratory_rate": 1.3,
+    "high_blood_pressure": 0.4,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 5.1,
+    "heart_rate": 3.5,
+    "respiratory_rate": 1.4,
+    "high_blood_pressure": 0.3,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 5.7,
+    "heart_rate": 3.8,
+    "respiratory_rate": 1.7,
+    "high_blood_pressure": 0.3,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 5.1,
+    "heart_rate": 3.8,
+    "respiratory_rate": 1.5,
+    "high_blood_pressure": 0.3,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 5.4,
+    "heart_rate": 3.4,
+    "respiratory_rate": 1.7,
+    "high_blood_pressure": 0.2,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 5.1,
+    "heart_rate": 3.7,
+    "respiratory_rate": 1.5,
+    "high_blood_pressure": 0.4,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 4.6,
+    "heart_rate": 3.6,
+    "respiratory_rate": 1,
+    "high_blood_pressure": 0.2,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 5.1,
+    "heart_rate": 3.3,
+    "respiratory_rate": 1.7,
+    "high_blood_pressure": 0.5,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 4.8,
+    "heart_rate": 3.4,
+    "respiratory_rate": 1.9,
+    "high_blood_pressure": 0.2,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 5,
+    "heart_rate": 3,
+    "respiratory_rate": 1.6,
+    "high_blood_pressure": 0.2,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 5,
+    "heart_rate": 3.4,
+    "respiratory_rate": 1.6,
+    "high_blood_pressure": 0.4,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 5.2,
+    "heart_rate": 3.5,
+    "respiratory_rate": 1.5,
+    "high_blood_pressure": 0.2,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 5.2,
+    "heart_rate": 3.4,
+    "respiratory_rate": 1.4,
+    "high_blood_pressure": 0.2,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 4.7,
+    "heart_rate": 3.2,
+    "respiratory_rate": 1.6,
+    "high_blood_pressure": 0.2,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 4.8,
+    "heart_rate": 3.1,
+    "respiratory_rate": 1.6,
+    "high_blood_pressure": 0.2,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 5.4,
+    "heart_rate": 3.4,
+    "respiratory_rate": 1.5,
+    "high_blood_pressure": 0.4,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 5.2,
+    "heart_rate": 4.1,
+    "respiratory_rate": 1.5,
+    "high_blood_pressure": 0.1,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 5.5,
+    "heart_rate": 4.2,
+    "respiratory_rate": 1.4,
+    "high_blood_pressure": 0.2,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 4.9,
+    "heart_rate": 3.1,
+    "respiratory_rate": 1.5,
+    "high_blood_pressure": 0.1,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 5,
+    "heart_rate": 3.2,
+    "respiratory_rate": 1.2,
+    "high_blood_pressure": 0.2,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 5.5,
+    "heart_rate": 3.5,
+    "respiratory_rate": 1.3,
+    "high_blood_pressure": 0.2,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 4.9,
+    "heart_rate": 3.1,
+    "respiratory_rate": 1.5,
+    "high_blood_pressure": 0.1,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 4.4,
+    "heart_rate": 3,
+    "respiratory_rate": 1.3,
+    "high_blood_pressure": 0.2,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 5.1,
+    "heart_rate": 3.4,
+    "respiratory_rate": 1.5,
+    "high_blood_pressure": 0.2,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 5,
+    "heart_rate": 3.5,
+    "respiratory_rate": 1.3,
+    "high_blood_pressure": 0.3,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 4.5,
+    "heart_rate": 2.3,
+    "respiratory_rate": 1.3,
+    "high_blood_pressure": 0.3,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 4.4,
+    "heart_rate": 3.2,
+    "respiratory_rate": 1.3,
+    "high_blood_pressure": 0.2,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 5,
+    "heart_rate": 3.5,
+    "respiratory_rate": 1.6,
+    "high_blood_pressure": 0.6,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 5.1,
+    "heart_rate": 3.8,
+    "respiratory_rate": 1.9,
+    "high_blood_pressure": 0.4,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 4.8,
+    "heart_rate": 3,
+    "respiratory_rate": 1.4,
+    "high_blood_pressure": 0.3,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 5.1,
+    "heart_rate": 3.8,
+    "respiratory_rate": 1.6,
+    "high_blood_pressure": 0.2,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 4.6,
+    "heart_rate": 3.2,
+    "respiratory_rate": 1.4,
+    "high_blood_pressure": 0.2,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 5.3,
+    "heart_rate": 3.7,
+    "respiratory_rate": 1.5,
+    "high_blood_pressure": 0.2,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 5,
+    "heart_rate": 3.3,
+    "respiratory_rate": 1.4,
+    "high_blood_pressure": 0.2,
+    "species": "Heart disease"
+  },
+  {
+    "body_temperature": 7,
+    "heart_rate": 3.2,
+    "respiratory_rate": 4.7,
+    "high_blood_pressure": 1.4,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 6.4,
+    "heart_rate": 3.2,
+    "respiratory_rate": 4.5,
+    "high_blood_pressure": 1.5,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 6.9,
+    "heart_rate": 3.1,
+    "respiratory_rate": 4.9,
+    "high_blood_pressure": 1.5,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 5.5,
+    "heart_rate": 2.3,
+    "respiratory_rate": 4,
+    "high_blood_pressure": 1.3,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 6.5,
+    "heart_rate": 2.8,
+    "respiratory_rate": 4.6,
+    "high_blood_pressure": 1.5,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 5.7,
+    "heart_rate": 2.8,
+    "respiratory_rate": 4.5,
+    "high_blood_pressure": 1.3,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 6.3,
+    "heart_rate": 3.3,
+    "respiratory_rate": 4.7,
+    "high_blood_pressure": 1.6,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 4.9,
+    "heart_rate": 2.4,
+    "respiratory_rate": 3.3,
+    "high_blood_pressure": 1,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 6.6,
+    "heart_rate": 2.9,
+    "respiratory_rate": 4.6,
+    "high_blood_pressure": 1.3,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 5.2,
+    "heart_rate": 2.7,
+    "respiratory_rate": 3.9,
+    "high_blood_pressure": 1.4,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 5,
+    "heart_rate": 2,
+    "respiratory_rate": 3.5,
+    "high_blood_pressure": 1,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 5.9,
+    "heart_rate": 3,
+    "respiratory_rate": 4.2,
+    "high_blood_pressure": 1.5,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 6,
+    "heart_rate": 2.2,
+    "respiratory_rate": 4,
+    "high_blood_pressure": 1,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 6.1,
+    "heart_rate": 2.9,
+    "respiratory_rate": 4.7,
+    "high_blood_pressure": 1.4,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 5.6,
+    "heart_rate": 2.9,
+    "respiratory_rate": 3.6,
+    "high_blood_pressure": 1.3,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 6.7,
+    "heart_rate": 3.1,
+    "respiratory_rate": 4.4,
+    "high_blood_pressure": 1.4,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 5.6,
+    "heart_rate": 3,
+    "respiratory_rate": 4.5,
+    "high_blood_pressure": 1.5,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 5.8,
+    "heart_rate": 2.7,
+    "respiratory_rate": 4.1,
+    "high_blood_pressure": 1,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 6.2,
+    "heart_rate": 2.2,
+    "respiratory_rate": 4.5,
+    "high_blood_pressure": 1.5,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 5.6,
+    "heart_rate": 2.5,
+    "respiratory_rate": 3.9,
+    "high_blood_pressure": 1.1,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 5.9,
+    "heart_rate": 3.2,
+    "respiratory_rate": 4.8,
+    "high_blood_pressure": 1.8,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 6.1,
+    "heart_rate": 2.8,
+    "respiratory_rate": 4,
+    "high_blood_pressure": 1.3,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 6.3,
+    "heart_rate": 2.5,
+    "respiratory_rate": 4.9,
+    "high_blood_pressure": 1.5,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 6.1,
+    "heart_rate": 2.8,
+    "respiratory_rate": 4.7,
+    "high_blood_pressure": 1.2,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 6.4,
+    "heart_rate": 2.9,
+    "respiratory_rate": 4.3,
+    "high_blood_pressure": 1.3,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 6.6,
+    "heart_rate": 3,
+    "respiratory_rate": 4.4,
+    "high_blood_pressure": 1.4,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 6.8,
+    "heart_rate": 2.8,
+    "respiratory_rate": 4.8,
+    "high_blood_pressure": 1.4,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 6.7,
+    "heart_rate": 3,
+    "respiratory_rate": 5,
+    "high_blood_pressure": 1.7,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 6,
+    "heart_rate": 2.9,
+    "respiratory_rate": 4.5,
+    "high_blood_pressure": 1.5,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 5.7,
+    "heart_rate": 2.6,
+    "respiratory_rate": 3.5,
+    "high_blood_pressure": 1,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 5.5,
+    "heart_rate": 2.4,
+    "respiratory_rate": 3.8,
+    "high_blood_pressure": 1.1,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 5.5,
+    "heart_rate": 2.4,
+    "respiratory_rate": 3.7,
+    "high_blood_pressure": 1,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 5.8,
+    "heart_rate": 2.7,
+    "respiratory_rate": 3.9,
+    "high_blood_pressure": 1.2,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 6,
+    "heart_rate": 2.7,
+    "respiratory_rate": 5.1,
+    "high_blood_pressure": 1.6,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 5.4,
+    "heart_rate": 3,
+    "respiratory_rate": 4.5,
+    "high_blood_pressure": 1.5,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 6,
+    "heart_rate": 3.4,
+    "respiratory_rate": 4.5,
+    "high_blood_pressure": 1.6,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 6.7,
+    "heart_rate": 3.1,
+    "respiratory_rate": 4.7,
+    "high_blood_pressure": 1.5,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 6.3,
+    "heart_rate": 2.3,
+    "respiratory_rate": 4.4,
+    "high_blood_pressure": 1.3,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 5.6,
+    "heart_rate": 3,
+    "respiratory_rate": 4.1,
+    "high_blood_pressure": 1.3,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 5.5,
+    "heart_rate": 2.5,
+    "respiratory_rate": 4,
+    "high_blood_pressure": 1.3,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 5.5,
+    "heart_rate": 2.6,
+    "respiratory_rate": 4.4,
+    "high_blood_pressure": 1.2,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 6.1,
+    "heart_rate": 3,
+    "respiratory_rate": 4.6,
+    "high_blood_pressure": 1.4,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 5.8,
+    "heart_rate": 2.6,
+    "respiratory_rate": 4,
+    "high_blood_pressure": 1.2,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 5,
+    "heart_rate": 2.3,
+    "respiratory_rate": 3.3,
+    "high_blood_pressure": 1,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 5.6,
+    "heart_rate": 2.7,
+    "respiratory_rate": 4.2,
+    "high_blood_pressure": 1.3,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 5.7,
+    "heart_rate": 3,
+    "respiratory_rate": 4.2,
+    "high_blood_pressure": 1.2,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 6.2,
+    "heart_rate": 2.9,
+    "respiratory_rate": 4.3,
+    "high_blood_pressure": 1.3,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 5.1,
+    "heart_rate": 2.5,
+    "respiratory_rate": 3,
+    "high_blood_pressure": 1.1,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 5.7,
+    "heart_rate": 2.8,
+    "respiratory_rate": 4.1,
+    "high_blood_pressure": 1.3,
+    "species": "Diabetes"
+  },
+  {
+    "body_temperature": 6.3,
+    "heart_rate": 3.3,
+    "respiratory_rate": 6,
+    "high_blood_pressure": 2.5,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 5.8,
+    "heart_rate": 2.7,
+    "respiratory_rate": 5.1,
+    "high_blood_pressure": 1.9,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 7.1,
+    "heart_rate": 3,
+    "respiratory_rate": 5.9,
+    "high_blood_pressure": 2.1,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 6.3,
+    "heart_rate": 2.9,
+    "respiratory_rate": 5.6,
+    "high_blood_pressure": 1.8,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 6.5,
+    "heart_rate": 3,
+    "respiratory_rate": 5.8,
+    "high_blood_pressure": 2.2,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 7.6,
+    "heart_rate": 3,
+    "respiratory_rate": 6.6,
+    "high_blood_pressure": 2.1,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 4.9,
+    "heart_rate": 2.5,
+    "respiratory_rate": 4.5,
+    "high_blood_pressure": 1.7,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 7.3,
+    "heart_rate": 2.9,
+    "respiratory_rate": 6.3,
+    "high_blood_pressure": 1.8,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 6.7,
+    "heart_rate": 2.5,
+    "respiratory_rate": 5.8,
+    "high_blood_pressure": 1.8,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 7.2,
+    "heart_rate": 3.6,
+    "respiratory_rate": 6.1,
+    "high_blood_pressure": 2.5,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 6.5,
+    "heart_rate": 3.2,
+    "respiratory_rate": 5.1,
+    "high_blood_pressure": 2,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 6.4,
+    "heart_rate": 2.7,
+    "respiratory_rate": 5.3,
+    "high_blood_pressure": 1.9,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 6.8,
+    "heart_rate": 3,
+    "respiratory_rate": 5.5,
+    "high_blood_pressure": 2.1,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 5.7,
+    "heart_rate": 2.5,
+    "respiratory_rate": 5,
+    "high_blood_pressure": 2,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 5.8,
+    "heart_rate": 2.8,
+    "respiratory_rate": 5.1,
+    "high_blood_pressure": 2.4,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 6.4,
+    "heart_rate": 3.2,
+    "respiratory_rate": 5.3,
+    "high_blood_pressure": 2.3,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 6.5,
+    "heart_rate": 3,
+    "respiratory_rate": 5.5,
+    "high_blood_pressure": 1.8,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 7.7,
+    "heart_rate": 3.8,
+    "respiratory_rate": 6.7,
+    "high_blood_pressure": 2.2,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 7.7,
+    "heart_rate": 2.6,
+    "respiratory_rate": 6.9,
+    "high_blood_pressure": 2.3,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 6,
+    "heart_rate": 2.2,
+    "respiratory_rate": 5,
+    "high_blood_pressure": 1.5,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 6.9,
+    "heart_rate": 3.2,
+    "respiratory_rate": 5.7,
+    "high_blood_pressure": 2.3,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 5.6,
+    "heart_rate": 2.8,
+    "respiratory_rate": 4.9,
+    "high_blood_pressure": 2,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 7.7,
+    "heart_rate": 2.8,
+    "respiratory_rate": 6.7,
+    "high_blood_pressure": 2,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 6.3,
+    "heart_rate": 2.7,
+    "respiratory_rate": 4.9,
+    "high_blood_pressure": 1.8,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 6.7,
+    "heart_rate": 3.3,
+    "respiratory_rate": 5.7,
+    "high_blood_pressure": 2.1,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 7.2,
+    "heart_rate": 3.2,
+    "respiratory_rate": 6,
+    "high_blood_pressure": 1.8,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 6.2,
+    "heart_rate": 2.8,
+    "respiratory_rate": 4.8,
+    "high_blood_pressure": 1.8,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 6.1,
+    "heart_rate": 3,
+    "respiratory_rate": 4.9,
+    "high_blood_pressure": 1.8,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 6.4,
+    "heart_rate": 2.8,
+    "respiratory_rate": 5.6,
+    "high_blood_pressure": 2.1,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 7.2,
+    "heart_rate": 3,
+    "respiratory_rate": 5.8,
+    "high_blood_pressure": 1.6,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 7.4,
+    "heart_rate": 2.8,
+    "respiratory_rate": 6.1,
+    "high_blood_pressure": 1.9,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 7.9,
+    "heart_rate": 3.8,
+    "respiratory_rate": 6.4,
+    "high_blood_pressure": 2,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 6.4,
+    "heart_rate": 2.8,
+    "respiratory_rate": 5.6,
+    "high_blood_pressure": 2.2,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 6.3,
+    "heart_rate": 2.8,
+    "respiratory_rate": 5.1,
+    "high_blood_pressure": 1.5,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 6.1,
+    "heart_rate": 2.6,
+    "respiratory_rate": 5.6,
+    "high_blood_pressure": 1.4,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 7.7,
+    "heart_rate": 3,
+    "respiratory_rate": 6.1,
+    "high_blood_pressure": 2.3,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 6.3,
+    "heart_rate": 3.4,
+    "respiratory_rate": 5.6,
+    "high_blood_pressure": 2.4,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 6.4,
+    "heart_rate": 3.1,
+    "respiratory_rate": 5.5,
+    "high_blood_pressure": 1.8,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 6,
+    "heart_rate": 3,
+    "respiratory_rate": 4.8,
+    "high_blood_pressure": 1.8,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 6.9,
+    "heart_rate": 3.1,
+    "respiratory_rate": 5.4,
+    "high_blood_pressure": 2.1,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 6.7,
+    "heart_rate": 3.1,
+    "respiratory_rate": 5.6,
+    "high_blood_pressure": 2.4,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 6.9,
+    "heart_rate": 3.1,
+    "respiratory_rate": 5.1,
+    "high_blood_pressure": 2.3,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 5.8,
+    "heart_rate": 2.7,
+    "respiratory_rate": 5.1,
+    "high_blood_pressure": 1.9,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 6.8,
+    "heart_rate": 3.2,
+    "respiratory_rate": 5.9,
+    "high_blood_pressure": 2.3,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 6.7,
+    "heart_rate": 3.3,
+    "respiratory_rate": 5.7,
+    "high_blood_pressure": 2.5,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 6.7,
+    "heart_rate": 3,
+    "respiratory_rate": 5.2,
+    "high_blood_pressure": 2.3,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 6.3,
+    "heart_rate": 2.5,
+    "respiratory_rate": 5,
+    "high_blood_pressure": 1.9,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 6.5,
+    "heart_rate": 3,
+    "respiratory_rate": 5.2,
+    "high_blood_pressure": 2,
+    "species": "Hypertension"
+  },
+  {
+    "body_temperature": 6.2,
+    "heart_rate": 3.4,
+    "respiratory_rate": 5.4,
+    "high_blood_pressure": 2.3,
+    "species": "Hypertension"
+  }
+  
+]

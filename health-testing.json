@@ -1,0 +1,10 @@
+﻿[
+  
+  {
+    "body_temperature": 5.9,
+    "heart_rate": 3,
+    "respiratory_rate": 5.1,
+    "high_blood_pressure": 1.8,
+    "species": "Hypertension"
+  }
+]
